@@ -1,7 +1,3 @@
-# Change-an-user-s-password-on-Roblox
-⚠ This is a fake hack. It's not real. ⚠ You can use it to prank your friends or something like that. But this isn't real hacking.
-Copy this:
-
 <p><span style="color: #008000;"><strong>Change Password&nbsp;™</strong></span></p>
 
 <h3>&nbsp;</h3>
