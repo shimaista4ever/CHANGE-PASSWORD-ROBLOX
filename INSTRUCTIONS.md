@@ -11,5 +11,5 @@ Step 6. Paste the CHANGEPASSWORD.
 Step 7. Choose a password. Be careful: select a difficult and hard password with numbers and symbols.
 Step 8. Connect. It will take a while to get to 100%, sometimes more than one hour.
 Step 9. Log in with the username and the password you wrote.
-Step 10. Finally, you're in their account.
+Step 10. Finally, you're in their account. 
         
